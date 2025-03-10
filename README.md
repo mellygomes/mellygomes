@@ -1,5 +1,11 @@
 ## Olá! Confira meu portfólio 😊
 
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **mellygomes/mellygomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +22,14 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github"> </img> 
+  <!--&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github)]    (https://github.com/anuraghazra/github-readme-stats"></img> -->
+
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact"> </img>
 </a>  
 
 <div style="display: inline-block"><br>
