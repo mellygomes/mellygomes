@@ -1,11 +1,4 @@
 ## Olá! Confira meu portfólio 😊
-
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <!--
 **mellygomes/mellygomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,19 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div style="display: inline_block"><br>
+  <a href="https://github.com/anuraghazra">
+    <img src="https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github"> </img> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact"> </img>
+  </a>
+</div>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github"> </img> 
-  <!--&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github)]    (https://github.com/anuraghazra/github-readme-stats"></img> -->
 
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact"> </img>
-</a>  
-
-<div style="display: inline-block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="melly-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"">
   <img align="center" alt="melly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="melly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,3 +32,19 @@ Here are some ideas to get you started:
 </div>
 
 ##
+  ## Meus projetos
+<div style="display: inline_block"><br>  
+  <a href="https://github.com/anuraghazra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=MalvaderPOO"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=Todo-list"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=Parser"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projeto-frontend-3-painel"></img>
+  </a>
+</div>
+
+## Contato profissional
+<div>
+  <a href="www.linkedin.com/in/emanuelly-queiroz" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </img> </a>
+  <a href="mailto:emanuellygs.queiroz@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </img> </a>
+</div>
+
