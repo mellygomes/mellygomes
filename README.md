@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Contato profissional
 <div>
-  <a href="https://www.linkedin.com/in/emanuelly-queiroz" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </img> </a>
-  <a href="mailto:emanuellygs.queiroz@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </img> </a>
+  <a href="https://www.linkedin.com/in/emanuelly-queiroz" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="mailto:emanuellygs.queiroz@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 
