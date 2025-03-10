@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-<div style="display: inline-block>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>  
 
 <div style="display: inline-block"><br>
   <img align="center" alt="melly-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"">
