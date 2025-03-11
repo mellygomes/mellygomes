@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ##
   ## Meus projetos
 <div style="display: inline_block"><br>   
-    <a href="https://github.com/mellygomes/MalvaderPOO"><<img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=MalvaderPOO"></img></a>
+    <a href="https://github.com/mellygomes/MalvaderPOO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=MalvaderPOO"></img></a>
     <a href="https://github.com/mellygomes/Todo-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=Todo-list"></img></a>
     <a href="https://github.com/mellygomes/Parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=Parser"></img></a>
     <a href="https://mellygomes.github.io/projeto-frontend-2/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projeto-frontend-2"></img></a>
