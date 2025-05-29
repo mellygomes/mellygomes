@@ -1,18 +1,5 @@
-## Olá! Confira meu portfólio 😊
-<!--
-**mellygomes/mellygomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Seja Bem-Vindo 😊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
 <div style="display: inline_block"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github"> </img> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact"> </img>
@@ -36,6 +23,7 @@ Here are some ideas to get you started:
     <a href="https://projetc-todo-list.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projetc-ToDo-List"></img></a>
     <a href="https://github.com/mellygomes/Parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projeto-parser"></img></a>
     <a href="https://mellygomes.github.io/projeto-frontend-2/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projeto-frontend-2"></img></a>
+    <a href="https://github.com/mellygomes/App_MyPet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projeto-frontend-2"></img></a>
 </div>
 
 ## Contato profissional
