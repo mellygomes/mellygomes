@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&show=prs_merged&rank_icon=github"> </img> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellygomes&langs_count=7&show_icons=true&theme=dracula&bg_color=00000000&layout=compact"> </img>
 </div>
-
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="melly-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"">
   <img align="center" alt="melly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +16,7 @@
 </div>
 
 <!--
+
 ##
   ## Meus projetos
 <div style="display: inline_block"><br>   
@@ -26,6 +27,7 @@
     <a href="https://github.com/mellygomes/projeto-banco-comercial-malvader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projeto-banco-comercial-malvader"></img></a>
     <a href="https://mellygomes.github.io/projeto-frontend-2/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mellygomes&show_icons=true&theme=dracula&bg_color=00000000&repo=projeto-frontend-2"></img></a>
 </div> 
+
 -->
 
 ## Contato profissional
